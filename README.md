@@ -1,5 +1,5 @@
 # 💫 About Me:
-Information Systems student with a strong interest in Business Intelligence, Data Analytics, and IT Governance. Passionate about turning data into insights and making informed business decisions. Always eager to learn, analyze, and contribute to impactful projects.
+Information Systems student with a strong interest in Data Analytics, Project Management, and Data Science. Passionate about turning data into actionable insights, managing projects effectively, and leveraging data-driven solutions for impactful results. Always eager to learn, analyze, and contribute to innovative projects.
 
 
 ## 🌐 Socials:
