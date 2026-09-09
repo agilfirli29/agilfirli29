@@ -28,11 +28,9 @@ With experience in project management, data analysis, visualization, and technol
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=agilfirli29&show_icons=true)
+![Agil's GitHub Stats](https://github-stats-extended.vercel.app/api?username=agilfirli29&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=agilfirli29)
-
-![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=agilfirli29)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=agilfirli29&layout=compact&theme=dark&hide_border=true)
 
 ---
 
