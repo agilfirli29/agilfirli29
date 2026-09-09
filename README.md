@@ -28,11 +28,11 @@ With experience in project management, data analysis, visualization, and technol
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=agilfirli29&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Agil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agilfirli29&show_icons=true&theme=dark&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=agilfirli29&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=agilfirli29&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agilfirli29&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agilfirli29&layout=compact&theme=dark&hide_border=true)
 
 ---
 
